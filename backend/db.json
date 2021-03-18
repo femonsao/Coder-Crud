@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta Bic",
+      "price": 1.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook Azus",
+      "price": 5000.89
+    },
+    {
+      "id": 3,
+      "name": "Caderno",
+      "price": 10
+    },
+    {
+      "name": "Fogão",
+      "price": 560.89,
+      "id": 4
+    }
+  ]
+}
